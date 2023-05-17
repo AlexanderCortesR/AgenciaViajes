@@ -7,12 +7,12 @@ https://turistikagenciav.000webhostapp.com/index.php
 
 Credenciales de prueba:
 Para parte usuario:
-  Usuario: user
-  Contraseña: user
+  ##Usuario: user
+  ##Contraseña: user
 
 Para parte administradora:
-  Usuario: admin
-  Contraseña: admin
+  ##Usuario: admin
+  ##Contraseña: admin
 
 
 
