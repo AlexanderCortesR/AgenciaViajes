@@ -1,6 +1,8 @@
 # Turistik 🛫
 
 Un sitio web creado con Bootstrap 4, PHP7, MySql, JavaScript
+
+Página de Prueba:
 https://turistikagenciav.000webhostapp.com/index.php
 
 Credenciales de prueba:
